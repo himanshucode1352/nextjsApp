@@ -1,0 +1,37 @@
+{
+    "name": "corf",
+    "homepage": "http://Xpresscure.com",
+    "version": "1.1.0",
+    "description": "Corf - React Next Medical Health Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build:prod": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "bootstrap": "^4.6.0",
+        "next": "^10.0.5",
+        "node-localstorage": "^2.1.6",
+        "nodemailer": "^6.4.17",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^16.14.0",
+        "react-accessible-accordion": "^3.3.3",
+        "react-bootstrap": "^1.5.2",
+        "react-datepicker": "^3.4.1",
+        "react-dom": "^16.14.0",
+        "react-hook-form": "^6.14.1",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-router-dom": "^5.2.0",
+        "react-select": "^4.3.0",
+        "react-wow": "^1.0.0",
+        "sass": "^1.32.4",
+        "sweetalert2": "^10.13.0",
+        "sweetalert2-react-content": "^3.2.2"
+    }
+}
