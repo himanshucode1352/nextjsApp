@@ -5,14 +5,13 @@
     "description": "Corf - React Next Medical Health Template",
     "main": "index.js",
     "scripts": {
-        "dev": "next dev",
-        "build:prod": "npm run prepare && NODE_OPTIONS=--openssl-legacy-provider next build",
-        "build": "next build",
-        "vercel-build": "NODE_OPTIONS=--openssl-legacy-provider next build",
-        "start": "NODE_OPTIONS=--openssl-legacy-provider next start",
-        "export": "next export"
-    },
-    
+    "dev": "next dev",
+    "build:prod": " NODE_OPTIONS=--openssl-legacy-provider next build",
+    "build": "next build",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider next start",
+    "export": "next export"
+},
+
     "author": "EnvyTheme.com",
     "license": "ISC",
     "dependencies": {
