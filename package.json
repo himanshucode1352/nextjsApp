@@ -6,9 +6,9 @@
     "main": "index.js",
     "scripts": {
         "dev": "next dev",
-        "build:prod": "next build",
-        "vercel-build": "npm run prepare && next build",
-        "start": "next start",
+        "build:prod": "next build --openssl-legacy-provider build",
+        "vercel-build": "npm run prepare && next build --openssl-legacy-provider build",
+        "start": "next start --openssl-legacy-provider start",
         "export": "next export"
     },
     "author": "EnvyTheme.com",
