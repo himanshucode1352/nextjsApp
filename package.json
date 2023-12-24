@@ -34,9 +34,6 @@
       "sass": "^1.32.4",
       "sweetalert2": "^10.13.0",
       "sweetalert2-react-content": "^3.2.2"
-    },
-    "engines": {
-      "node": "14"
     }
   }
   
