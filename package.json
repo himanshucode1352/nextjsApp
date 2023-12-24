@@ -8,7 +8,7 @@
         "dev": "next dev",
         "build:prod": "npm run prepare && NODE_OPTIONS=--openssl-legacy-provider next build",
         "build": "next build",
-        "vercel-build": "npm run prepare && NODE_OPTIONS=--openssl-legacy-provider next build",
+        "vercel-build": "NODE_OPTIONS=--openssl-legacy-provider next build",
         "start": "NODE_OPTIONS=--openssl-legacy-provider next start",
         "export": "next export"
     },
