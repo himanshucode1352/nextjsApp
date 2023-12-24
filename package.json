@@ -13,11 +13,6 @@
         "export": "next export"
     },
     
-    
-    "engines": {
-        "node": "14.x" 
-      }
-      ,
     "author": "EnvyTheme.com",
     "license": "ISC",
     "dependencies": {
