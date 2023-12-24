@@ -7,10 +7,14 @@
     "scripts": {
         "dev": "next dev",
         "build:prod": "next build --openssl-legacy-provider build",
-        "vercel-build": "npm run prepare && next build --openssl-legacy-provider build",
+        "vercel-build": "npm run prepare && next build ",
         "start": "next start --openssl-legacy-provider start",
         "export": "next export"
     },
+    "engines": {
+        "node": "14.x" 
+      }
+      ,
     "author": "EnvyTheme.com",
     "license": "ISC",
     "dependencies": {
