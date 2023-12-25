@@ -15,11 +15,11 @@ const Layout = ({ children }) => {
     return(
         <React.Fragment>
             <Head>
-                <title>Home</title>
+                <title>Sports Theme</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                <meta name="description" content="Corf - React Medical Health & Clinic Template" />
-                <meta name="og:title" property="og:title" content="Corf - React Medical Health & Clinic Template"></meta>
-                <meta name="twitter:card" content="Corf - React Medical Health & Clinic Template"></meta>
+                <meta name="description" content="Sports Theme" />
+                <meta name="og:title" property="og:title" content="Sports Theme"></meta>
+                <meta name="twitter:card" content="Sports Theme"></meta>
                 <link rel="canonical" href="https://corf-react.envytheme.com/"></link>
             </Head>
 

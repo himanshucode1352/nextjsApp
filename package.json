@@ -1,8 +1,7 @@
 {
     "name": "corf",
-    "homepage": "http://Xpresscure.com",
     "version": "1.1.0",
-    "description": "Corf - React Next Medical Health Template",
+    "description": "Sports Theme",
     "main": "index.js",
     "scripts": {
       "dev": "next dev",
